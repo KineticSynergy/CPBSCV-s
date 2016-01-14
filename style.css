@@ -1,0 +1,38 @@
+header
+{
+	color:#F00;
+}
+
+h2
+{
+    font-size:larger;
+}
+
+#t1
+{
+    padding-top:10px;
+    padding-left:50px;
+    font-weight:bold;
+}
+#t2
+{
+    padding-left:100px;
+    font-weight:bold;
+}
+
+#t3
+{
+    padding-left:45px;
+    font-size:small;
+}
+
+#list
+{
+    margin:0;
+}
+
+#mainBody
+{
+    margin-left:15%;
+    height:850px;
+}
